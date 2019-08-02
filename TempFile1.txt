@@ -3,3 +3,4 @@ This is test commit
 This is test commit2
 This is test addition
 This is test addition 2
+Test addition in new branch
